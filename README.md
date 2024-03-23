@@ -16,7 +16,7 @@ Responsive Design: The web application is designed to be responsive, ensuring se
 Task Manipulation: Users can add new tasks and delete tasks. However, completed tasks cannot be deleted to maintain a record of completed work.
 Technologies Used:
 
-Frontend: ReactJS: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB, CSS
+Frontend: HTML,CSS, ReactJS
 Background image is chosen from: pexels and it's url is https://images.pexels.com/photos/5546907/pexels-photo-5546907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 
 Setup Instructions:
@@ -31,7 +31,7 @@ Tasks can be sorted and filtered using the provided options for better organizat
 The responsive design ensures optimal user experience across different devices.
 
 
-Contributors:
+Contributor:
 Nitin Kumar
 
 Contact Information:
