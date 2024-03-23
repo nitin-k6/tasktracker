@@ -1,4 +1,4 @@
-Task Traker Application - README
+Task Traker Application - README  Deployed Link: https://tasktracker-hypersrot.netlify.app/
 
 Project Description:
 This project is a task management web application designed and implemented for Abbive. The application allows users to manage their tasks efficiently by providing features such as sorting tasks by priority and start/end date, filtering tasks based on various criteria including date range, assignee, and priority, and adding/deleting tasks. The web page is designed to be responsive, ensuring usability across different devices.
@@ -17,7 +17,7 @@ Task Manipulation: Users can add new tasks and delete tasks. However, completed 
 Technologies Used:
 
 Frontend: HTML,CSS, ReactJS
-Background image is chosen from: pexels and it's url is https://images.pexels.com/photos/5546907/pexels-photo-5546907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Background image is taken from: pexels
 
 Setup Instructions:
 
